@@ -1,7 +1,7 @@
 
 <template>
    
-  <div class="grid grid-cols-12 justify-between bg-white dark:bg-gray-900">
+  <div class="grid grid-cols-12 justify-between bg-white dark:bg-gray-900 sticky top-0 anim">
     <div class="flex items-center col-span-3 p-5 text-white  " >
         <span class="text-4xl font-bold" style="font-family: 'Roboto Slab', serif;">Benis</span>
     </div>
@@ -19,6 +19,20 @@
 
 </script>
 
-<style lang="">
+<style scoped>
+
+.anim{
+        animation: openslide 2s ;
+    }
     
+    
+    @keyframes openslide {
+        from{
+            transform: translateY(-1000px);
+        }
+        to{
+            transform: translateY(0);
+        }
+    }
+
 </style>
