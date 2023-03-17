@@ -1,11 +1,14 @@
 
 
 <template>
-    <div class="bg-gray-200 flex flex-row justify-around px-5">
-        <div class="flex flex-row items-center py-5"> <span><i class="fa-solid fa-truck fa-xl"></i></span> <span class="text-xl m-1 border-2 py-5"><h1>Lorem ipsum</h1> dolor sit amet consectetur adipisicing elit. Impedit, labore.</span></div>
-        <div class="flex flex-row items-center py-5"> <span><i class="fa-solid fa-truck fa-xl"></i></span> <span class="text-xl m-1 border-2 py-5"><h1>Lorem ipsum</h1> dolor sit amet consectetur adipisicing elit. Impedit, labore.</span></div>
-        <div class="flex flex-row items-center py-5"> <span><i class="fa-solid fa-truck fa-xl"></i></span> <span class="text-xl m-1 border-2 py-5"><h1>Lorem ipsum</h1> dolor sit amet consectetur adipisicing elit. Impedit, labore.</span></div>
-        <div class="flex flex-row items-center py-5"> <span><i class="fa-solid fa-truck fa-xl"></i></span> <span class="text-xl m-1 border-2 py-5"><h1>Lorem ipsum</h1> dolor sit amet consectetur adipisicing elit. Impedit, labore.</span></div>
+    <div class="absolute top-1/3 left-1/3 transform -translate-x-1/2 -translate-y-1/2">
+        <p class="text-white text-5xl">
+            Safe And <span class="text-orange-500">Believebly</span> 
+        </p>
+        <p class="text-white text-5xl">
+            Services
+        </p> 
+        <button class="text-white bg-orange-500 p-2 rounded-lg my-2">About Us</button>
     </div>
 </template>
 

@@ -1,17 +1,17 @@
 
 <template>
 
-    <div class="m-0 p-0 relative w-screen ">
+    <div class="m-0 p-0 relative w-screen bg-black z-10">
 
-        <!-- <div class="fixed m-0 p-0 h-screen -z-10 w-screen bg-black opacity-50 " style="background-image: url('/src/assets/bodyimage.webp'); background-size: cover;">
-          
+        <!-- <div class="fixed m-0 p-0 h-screen  w-screen bg-black -z-10  " style="background-image: url('/src/assets/bodyimage.webp'); background-size: cover;">
+
         </div>   -->
 
-        <NavbarComp></NavbarComp>
+        <NavbarComp/>
 
-        <router-view>
+        <router-view/>
 
-        </router-view>
+        <!-- <FooterComp/> -->
 
     </div>
 
@@ -20,6 +20,7 @@
 <script setup>
 
   import NavbarComp from './layouts/NavbarComp.vue';
+  import FooterComp from './components/design/FooterComp.vue';
 
 </script>
 
