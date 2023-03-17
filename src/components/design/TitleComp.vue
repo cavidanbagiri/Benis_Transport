@@ -29,7 +29,7 @@
     
     @keyframes openslide {
         from{
-            transform: translateX(-1000px);
+            transform: translateX(-100%);
         }
         to{
             transform: translateX(0);
