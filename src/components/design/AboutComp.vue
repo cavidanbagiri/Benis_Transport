@@ -3,10 +3,10 @@
     <div class="grid grid-cols-12 justify-between items-center  p-10 bg-white">
 
         <div class="col-span-6">
-            <p class="text-orange-500 text-5xl my-5 font-bold">
+            <p class="text-orange-500 text-5xl my-5 font-bold" style="font-family: 'Kanit', sans-serif;">
                 Safe Logistic & Transport Solutions That Saves Our Valuable Time!
             </p>
-            <p class="text-gray-900 text-xl my-5">
+            <p class="text-gray-500 text-xl my-5 font-bold" style="font-family: 'Source Code Pro', monospace;">
                 Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite
                 layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replication of the
                 designers is intended.
