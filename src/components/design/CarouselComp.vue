@@ -19,7 +19,7 @@ f
 import { ref } from 'vue';
 
 
-import InformationComp from './InformationComp.vue';
+import InformationComp from './TitleComp.vue';
 
 
 </script>

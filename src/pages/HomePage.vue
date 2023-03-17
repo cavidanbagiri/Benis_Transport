@@ -5,6 +5,10 @@
         
         <CarouselComp/>
 
+        <WhatwedoComp/>
+
+        <AboutComp></AboutComp>
+
     </div>
 </template>
 
@@ -12,8 +16,10 @@
 
     import CarouselComp from '../components/design/CarouselComp.vue';
 
-    import InformationComp from '../components/design/InformationComp.vue';
+    import WhatwedoComp from '../components/design/WhatwedoComp.vue';
     
+    import AboutComp from '../components/design/AboutComp.vue';
+
 </script>
 
 <style lang="">

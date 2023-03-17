@@ -8,7 +8,7 @@
         <p class="text-white text-5xl">
             Services
         </p> 
-        <button class="text-white bg-orange-500 p-2 rounded-lg my-2">About Us</button>
+        <button class="text-white bg-orange-500 p-2 rounded-lg my-5">About Us</button>
     </div>
 </template>
 

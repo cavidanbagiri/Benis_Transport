@@ -1,7 +1,7 @@
 
 <template>
    
-  <div class="grid grid-cols-12 justify-between">
+  <div class="grid grid-cols-12 justify-between bg-white dark:bg-gray-900">
     <div class="flex items-center col-span-3 p-5 text-white  " >
         <span class="text-5xl font-bold">Benis</span>
     </div>

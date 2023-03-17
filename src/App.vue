@@ -11,7 +11,7 @@
 
         <router-view/>
 
-        <!-- <FooterComp/> -->
+        <FooterComp/>
 
     </div>
 
