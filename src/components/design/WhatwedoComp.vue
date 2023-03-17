@@ -42,7 +42,7 @@
 
 @keyframes firstslide {
     from {
-        transform: translateY(-100%);
+        transform: translateY(-200%);
     }
 
     to {
@@ -57,7 +57,7 @@
 
 @keyframes secondslide {
     from {
-        transform: translateY(-100%);
+        transform: translateY(-200%);
     }
 
     to {
@@ -72,7 +72,7 @@
 
 @keyframes thirdslide {
     from {
-        transform: translateY(-100%);
+        transform: translateY(-200%);
     }
 
     to {
