@@ -1,8 +1,8 @@
 
 
 <template>
-    <div class="flex flex-row justify-between dark:bg-gray-900 my-10 w-full">
-        <div class=" m-2 p-5 border-2 flex flex-col bg-white rounded-xl items-center first">
+    <div class="justify-between dark:bg-gray-900 my-10 w-full grid grid-cols-12">
+        <div class=" m-2 p-5 col-span-12 lg:col-span-4 border-2 flex flex-col bg-white rounded-xl items-center first">
             <img class="w-16 h-16 mt-2" style="color:orange" src="../../assets/shipped.png" alt="">
             <p class="text-2xl font-bold mt-5 p-2 text-orange-500" style="font-family: 'Kanit', sans-serif;">Passenger
                 Transport</p>
@@ -10,7 +10,7 @@
                 freight service has grown conside rably in recent years. We spend timetting to know your processes
                 to.</span>
         </div>
-        <div class=" m-2 p-5 border-2 flex flex-col bg-white rounded-xl items-center  second">
+        <div class=" m-2 p-5 border-2  col-span-12  lg:col-span-4  flex flex-col bg-white rounded-xl items-center  second">
             <img class="w-16 h-16  mt-2" style="color:orange" src="../../assets/shipped.png" alt="">
             <p class="text-2xl font-bold mt-5 p-2 text-orange-500" style="font-family: 'Kanit', sans-serif;">Services
                 Automobiles</p>
@@ -18,7 +18,7 @@
                 freight service has grown conside rably in recent years. We spend timetting to know your processes
                 to.</span>
         </div>
-        <div class=" m-2 p-5 border-2 flex flex-col bg-white rounded-xl items-center  third">
+        <div class=" m-2 p-5 border-2 col-span-12 lg:col-span-4 flex flex-col bg-white rounded-xl items-center  third">
             <img class="w-16 h-16  mt-2" style="color:orange" src="../../assets/shipped.png" alt="">
             <p class="text-2xl font-bold mt-5 p-2 text-orange-500" style="font-family: 'Kanit', sans-serif;">Renting Cars
             </p>

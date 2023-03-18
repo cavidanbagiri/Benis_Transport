@@ -3,7 +3,7 @@
     <div class="grid grid-cols-12 justify-between items-center m-0 bg-gray-800  my-10">
 
         
-        <div class="col-span-6 p-2">
+        <div class="col-span-12 lg:col-span-6 p-2">
             <p class="text-orange-500 text-4xl text-center my-5 font-bold" style="font-family: 'Kanit', sans-serif;">
                 Safe Cargo Transporting
             </p>
@@ -20,7 +20,7 @@
             </button>
         </div>
         
-        <div class="col-span-6">
+        <div class="col-span-12 lg:col-span-6">
             <img src="https://cdn.britannica.com/17/126517-050-9CDCBDDF/semi-semitrailer-truck-tractor-highway.jpg"
                 alt="">
         </div>
