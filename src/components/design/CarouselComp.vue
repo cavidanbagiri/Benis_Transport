@@ -1,7 +1,8 @@
 f
 <template>
 
-    <div class="h-screen w-screen p-0 m-0 relative foxed">
+    <div class="w-full h-screen relative">
+        
         <div
             class="flex justify-between items-center h-full absolute p-0 m-0  top-0 left-0 right-0 bottom-0 opacity-30"
             style="
