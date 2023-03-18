@@ -1,6 +1,6 @@
 
 <template>
-    <!-- <div class="grid grid-cols-12 justify-between items-center m-0 bg-gray-800">
+    <div class="grid grid-cols-12 justify-between items-center m-0 bg-gray-800 my-10">
 
         <div class="col-span-6">
             <p class="text-orange-500 text-4xl text-center my-5 font-bold" style="font-family: 'Kanit', sans-serif;">
@@ -24,19 +24,12 @@
                 alt="">
         </div>
 
-    </div> -->
-    <div>
-        <AboutPassengerTransportComp/>
-        <AboutBiznesTransportCompCopy/>
-        <AboutCargoTransportCompCopy/>
     </div>
 </template>
 
 <script setup>
 
-    import AboutBiznesTransportCompCopy from './AboutBiznesTransportComp copy.vue';
-    import AboutCargoTransportCompCopy from './AboutCargoTransportComp copy.vue';
-    import AboutPassengerTransportComp from './AboutPassengerTransportComp.vue';
+
 
 </script>
 

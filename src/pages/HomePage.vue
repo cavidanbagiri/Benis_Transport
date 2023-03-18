@@ -11,6 +11,8 @@
 
         <GalleryComp></GalleryComp>        
 
+        
+
     </div>
 </template>
 
