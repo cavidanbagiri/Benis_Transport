@@ -36,7 +36,7 @@
         <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class="max-w-full h-full rounded-lg" src="http://avtosfer.az//upload/news/4416342.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
         <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
