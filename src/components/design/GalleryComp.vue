@@ -39,16 +39,16 @@
         <img class="max-w-full h-full rounded-lg" src="http://avtosfer.az//upload/news/4416342.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="https://media.ed.edmunds-media.com/ford/transit-cargo-van/2020/oem/2020_ford_transit-cargo-van_cargo-van_150-low-roof_fq_oem_1_1280.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class=" max-w-full rounded-lg h-full" src="https://www.knaus.com/fileadmin/media/global/open-graphs/camper-van/ktg-knaus-camper-van-uebersicht-opengraph.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class="h-full max-w-full rounded-lg" src="https://www.bantam.ch/hekla/resources/sans-titre-w720h480.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="https://backvan.we-van.com/data/cache/SaleAdPicture/picture/main/9/f/3228.1665582894.jpg" alt="">
     </div>
     
 </div>
