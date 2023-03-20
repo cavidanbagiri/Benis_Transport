@@ -1,13 +1,13 @@
 
 <template>
     <div class="bg-white">
-        services
+        <ServicesPassenger/>
     </div>
 </template>
 
 <script setup>
 
-
+    import ServicesPassenger from '../components/design/ServicesPassenger.vue';
 
 </script>
 
