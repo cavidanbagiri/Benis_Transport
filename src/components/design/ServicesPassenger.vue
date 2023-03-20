@@ -9,14 +9,14 @@
                 <img src="https://www.budgettrucks.com.au/content/dam/budgettruck/oc/au/common/offers/budget-au-trucks-groupc-van-900x600.jpg"
                     alt="">
             </div>
-            <div class="col-span-12 p-2 flex flex-col lg:col-span-6 text-white  items-center">
-                <span class="text-orange-500 text-4xl py-5">
+            <div class="col-span-12 p-0 lg:p-2 flex flex-col lg:col-span-6 text-white ">
+                <span class="text-orange-500 text-4xl py-5 text-center">
                     Hyundai I50
                 </span>
                 <span class="text-gray-400  p-5">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam facilis, beatae similique repellat, magnam itaque sapiente dolorem maxime recusandae illum debitis odit nisi. Recusandae unde repellendus commodi minima! Natus voluptatum cum in id impedit. Minima obcaecati fuga nesciunt vero tempora qui ea harum amet, tenetur, dignissimos nihil dolores atque voluptate!    
                 </span>
-                <ul class=" py-5">
+                <ul class=" p-5">
                     <li>Vehicle Name : Hyundai</li>
                     <li>Model : I50</li>
                     <li>Motor type : Automatic</li>
@@ -30,14 +30,14 @@
                 <img src="https://www.mercedes-benz-bus.com/content/dam/mbo/markets/common/models/minibuses/sprinter-transfer/images/teaser/new-sprinter-transfer-teaser.jpg"
                     alt="">
             </div>
-            <div class="col-span-12 p-2 flex flex-col lg:col-span-6 text-white  items-center">
-                <span class="text-orange-500 text-4xl py-5">
+            <div class="col-span-12 p-2 flex flex-col lg:col-span-6 text-white">
+                <span class="text-orange-500 text-4xl py-5 text-center">
                     Mersedes Sprinter
                 </span>
                 <span class="text-gray-400  p-5">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam facilis, beatae similique repellat, magnam itaque sapiente dolorem maxime recusandae illum debitis odit nisi. Recusandae unde repellendus commodi minima! Natus voluptatum cum in id impedit. Minima obcaecati fuga nesciunt vero tempora qui ea harum amet, tenetur, dignissimos nihil dolores atque voluptate!    
                 </span>
-                <ul class=" py-5">
+                <ul class=" p-5">
                     <li>Vehicle Name : Mersedes</li>
                     <li>Model : Sprinter</li>
                     <li>Motor type : Automatic</li>
