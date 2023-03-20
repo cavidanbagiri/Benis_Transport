@@ -6,7 +6,7 @@
         <span class="p-5 text-5xl font-bold my-5 ">Passenger Transport</span>
         <div class="grid grid-cols-12 gap-4 my-5 ">
             <div class="col-span-12 lg:col-span-6 text-white">
-                <img src="https://www.budgettrucks.com.au/content/dam/budgettruck/oc/au/common/offers/budget-au-trucks-groupc-van-900x600.jpg"
+                <img class="w-full h-full" src="https://www.budgettrucks.com.au/content/dam/budgettruck/oc/au/common/offers/budget-au-trucks-groupc-van-900x600.jpg"
                     alt="">
             </div>
             <div class="col-span-12 p-0 lg:p-2 flex flex-col lg:col-span-6 text-white ">

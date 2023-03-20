@@ -1,6 +1,6 @@
 
 <template>
-    <div class="grid grid-cols-12 justify-between bg-gray-800 sticky top-0 anim">
+    <div class="grid grid-cols-12 justify-between bg-gray-800 sticky top-0 anim border-b-2 ">
         <div class="col-span-12 lg:col-span-4 justify-start  flex items-center p-1 text-white  ">
             <router-link to="/">
                 <span class="text-xl bg-inherit  font-bold" style="font-family: 'Roboto Slab', serif;">Beniz
@@ -13,8 +13,10 @@
                 <span class="p-4 text-md hover:text-orange-400 cursor-pointer"
                 style="font-family: 'Roboto Slab', serif;">Home</span>
             </router-link>
-            <span class="p-4 text-md hover:text-orange-400 cursor-pointer"
+            <router-link to="/about"  active-class="bg-orange-500 p-1 lg:p-2 rounded-lg text-white">
+                <span class="p-4 text-md hover:text-orange-400 cursor-pointer"
                 style="font-family: 'Roboto Slab', serif;">About</span>
+            </router-link>
             <router-link to="/services" active-class="bg-orange-500 p-1 lg:p-2 rounded-lg text-white">
                 <span class="p-4 text-md hover:text-orange-400 cursor-pointer"
                 style="font-family: 'Roboto Slab', serif;">Services</span>
