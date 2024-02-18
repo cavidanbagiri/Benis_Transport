@@ -5,6 +5,8 @@
 
         <CarouselComp/>
 
+        <!-- <CarouselSec/> -->
+
         <WhatwedoComp/>
 
         <AboutComp></AboutComp>
@@ -19,6 +21,8 @@
 <script setup>
 
     import CarouselComp from '../components/design/CarouselComp.vue';
+
+    import CarouselSec from '../components/design/CarouselSec.vue';
 
     import WhatwedoComp from '../components/design/WhatwedoComp.vue';
     

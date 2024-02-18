@@ -19,36 +19,27 @@
     </div> -->
     
     
-<div class="flex items-center justify-center py-4 md:py-8 flex-wrap dark:bg-gray-900 ">
+<div class="flex items-center justify-center py-4 md:py-8 flex-wrap ">
     <span class="text-gray-300 text-5xl my-10 font-bold"  style="font-family: 'Kanit', sans-serif;">Galleries</span>
 </div>
 <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
-    <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://vanzone.co.uk/wp-content/uploads/2022/08/ford-transit-tightcrop-1.png" alt="">
+    <div class="rounded-lg">
+        <img class="h-full max-w-full rounded-lg bg-transparent" src="../../assets/gallery_1.jpg" alt="">
     </div>
     <div>
-        <img class="h-full max-w-full rounded-lg" src="https://www.panama-van.fr/wp-content/uploads/2021/07/panama-van-lifestyle-02-1.jpg" alt="">
+        <img class="h-full max-w-full rounded-lg" src="../../assets/gallery_2.jpg" alt="">
     </div>
     <div>
-        <img class="h-full max-w-full rounded-lg" src="https://www.budgettrucks.com.au/content/dam/budgettruck/oc/au/common/offers/budget-au-trucks-groupc-van-900x600.jpg" alt="">
+        <img class="h-full max-w-full rounded-lg"  src="../../assets/gallery_3.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://eldoradorent.az/images/stories/virtuemart/product/mercedes-benz-viano.png" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="../../assets/gallery_4.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="max-w-full h-full rounded-lg" src="http://avtosfer.az//upload/news/4416342.jpg" alt="">
+        <img class="max-w-full h-full rounded-lg" src="../../assets/gallery_5.jpg" alt="">
     </div>
     <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://media.ed.edmunds-media.com/ford/transit-cargo-van/2020/oem/2020_ford_transit-cargo-van_cargo-van_150-low-roof_fq_oem_1_1280.jpg" alt="">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
-        <img class=" max-w-full rounded-lg h-full" src="https://www.knaus.com/fileadmin/media/global/open-graphs/camper-van/ktg-knaus-camper-van-uebersicht-opengraph.jpg" alt="">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
-        <img class="h-full max-w-full rounded-lg" src="https://www.bantam.ch/hekla/resources/sans-titre-w720h480.jpg" alt="">
-    </div>
-    <div class="bg-gray-300 rounded-lg">
-        <img class="h-auto max-w-full rounded-lg" src="https://backvan.we-van.com/data/cache/SaleAdPicture/picture/main/9/f/3228.1665582894.jpg" alt="">
+        <img class="h-auto max-w-full rounded-lg" src="../../assets/gallery_6.jpg" alt="">
     </div>
     
 </div>

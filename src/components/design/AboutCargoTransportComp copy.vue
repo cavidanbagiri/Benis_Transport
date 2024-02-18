@@ -3,11 +3,11 @@
     <div class="grid grid-cols-12 justify-between items-center m-0 bg-gray-800  my-10">
 
         
-        <div class="col-span-12 lg:col-span-6 p-2">
-            <p class="text-orange-500 text-4xl text-center my-5 font-bold" style="font-family: 'Kanit', sans-serif;">
+        <div class="col-span-12 lg:col-span-6 flex flex-col p-2">
+            <p class="text-orange-500 text-4xl text-center my-5 font-bold" style="font-family: 'Poppins', sans-serif;">
                 Safe Cargo Transporting
             </p>
-            <p class="text-gray-500 text-md my-5 font-bold" style="font-family: 'Source Code Pro', monospace;">
+            <p class="text-gray-500 text-md my-5 font-bold" style="font-family: 'Poppins', monospace;">
                 Brook presents your services with flexible, convenient and cdpose layouts. You can select your favorite
                 layouts & elements for cular ts with unlimited ustomization possibilities. Pixel-perfect replication of the
                 designers is intended.
@@ -21,7 +21,7 @@
         </div>
         
         <div class="col-span-12 lg:col-span-6">
-            <img src="https://cdn.britannica.com/17/126517-050-9CDCBDDF/semi-semitrailer-truck-tractor-highway.jpg"
+            <img src="../../assets/about_image_2.jpg"
                 alt="">
         </div>
     </div>
