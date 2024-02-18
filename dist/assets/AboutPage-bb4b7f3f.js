@@ -1,1 +1,0 @@
-import{A as a,a as r,b as s}from"./AboutPassengerTransportComp-d0ca0874.js";import{o as t,c as e,b as o}from"./index-59cb48ca.js";const p={class:"bg-gray-800"},b={__name:"AboutPage",setup(n){return(c,m)=>(t(),e("div",p,[o(a),o(r),o(s)]))}};export{b as default};
