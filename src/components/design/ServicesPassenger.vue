@@ -32,13 +32,13 @@
             </div>
             <div class="col-span-12 p-2 flex flex-col lg:col-span-6 text-white">
                 <span class="text-orange-500 text-4xl py-5 text-center">
-                    Mersedes Sprinter
+                    Mercedes Sprinter
                 </span>
                 <span class="text-gray-400  p-5">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam facilis, beatae similique repellat, magnam itaque sapiente dolorem maxime recusandae illum debitis odit nisi. Recusandae unde repellendus commodi minima! Natus voluptatum cum in id impedit. Minima obcaecati fuga nesciunt vero tempora qui ea harum amet, tenetur, dignissimos nihil dolores atque voluptate!    
                 </span>
                 <ul class=" p-5">
-                    <li>Vehicle Name : Mersedes</li>
+                    <li>Vehicle Name : Mercedes</li>
                     <li>Model : Sprinter</li>
                     <li>Motor type : Automatic</li>
                     <li>HP : 300HP</li>
